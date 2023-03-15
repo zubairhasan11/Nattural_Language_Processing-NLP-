@@ -1,0 +1,6 @@
+Discussing things you care about can be difficult. The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Some Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments.
+
+One area of focus is the study of negative online behaviors, like toxic comments (i.e. comments that are rude, disrespectful or otherwise likely to make someone leave a discussion). 
+In this Project, I build a multi-headed model that’s capable of detecting different types of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models. I am using a dataset of comments from Wikipedia’s talk page edits. I am inspired by conversation research and AI team founded by jigsaw and google, datasets are used from kaggle
+I am using Natural Language processing and the one of the major Library used in this project is pytorch
+Disclaimer: the dataset for this competition contains text that may be considered profane, vulgar, or offensive.
